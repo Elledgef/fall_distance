@@ -10,8 +10,8 @@ def fall_distance(t):
 gravity = 9.8
 #Finds the distance
 d=(1/2)*g*t**2
-#will return value that is rounded to 3 spaces like in example
-return round(d,3)
+#will return value 
+return 
 #t=float(input())
 #dist=fall_distance(t)
 #print(dist)
